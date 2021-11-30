@@ -15,11 +15,12 @@ public class DownloadController {
 
     /**
      * 注册
+     *
      * @param download 参数封装
      * @return Result
      */
     @PostMapping(value = "/go")
-    public Result regist(Download download){
+    public Result regist(Download download) {
         return downloadService.regist(download);
     }
 }

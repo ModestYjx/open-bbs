@@ -13,8 +13,10 @@ public class DownloadService {
 
     @Autowired
     private DownloadMapper downloadMapper;
+
     /**
      * 注册
+     *
      * @param download 参数封装
      * @return Result
      */

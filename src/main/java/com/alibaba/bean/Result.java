@@ -2,6 +2,7 @@ package com.alibaba.bean;
 
 /**
  * 向前端返回信息封装
+ *
  * @param <T> 可变类型
  */
 public class Result<T> {

@@ -13,7 +13,7 @@ public class VisitedDataController {
     private VisitedDataService visitedDataService;
 
     @RequestMapping(value = "/index1")
-    public String index(){
+    public String index() {
         System.out.println(visitedDataService.findAll());
         return "index";
     }
