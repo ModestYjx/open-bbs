@@ -6,11 +6,11 @@
 > github：https://github.com/ModestYjx/open-bbs。
 
 > 体验网址：http://39.103.166.167/
-## 1. Usage
+## 1. Usages
 1. 配置数据库，参考[database.md](./doc/database.md)。
 2. 运行src/main/java/com/alibaba/Application.java即可。
 
-## 2. Feature
+## 2. Features
 ### 2.1 csdn free download for BBS user
 ### 2.2 codimd free(在线文档协作文档)
 
