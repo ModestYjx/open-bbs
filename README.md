@@ -1,6 +1,7 @@
 # open-bbs README
 ## 0. 简介
-> 如题所示，此项目为一个 BBSer 免费开放的开源项目。
+> 如题所示，此项目为一个 对BBSer 免费开放的开源项目，功能介绍在[Feature](#Feature)
+。
 
 > github：https://github.com/ModestYjx/open-bbs。
 
