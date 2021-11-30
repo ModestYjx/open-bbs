@@ -1,5 +1,6 @@
 # open-bbs
-## 1. 
+## 1. Usage
+1. 配置数据库，参考[database.md](./doc/database.md)。
 
 ## 2. Feature
 ### 2.1 csdn free download for BBS user
