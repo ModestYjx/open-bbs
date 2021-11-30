@@ -3,6 +3,7 @@ package com.alibaba.bean;
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.Id;
+
 /**
  * @Author: ModestYjx
  * @Description:
