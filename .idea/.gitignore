@@ -8,3 +8,5 @@
 /httpRequests/
 # Database
 *application.yml
+# 生成文件
+../target
