@@ -3,7 +3,12 @@ package com.alibaba.bean;
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.Id;
-
+/**
+ * @Author: ModestYjx
+ * @Description:
+ * @Version: 1.0.0
+ * @Date: 2021/11/30 20:58
+ */
 @Entity
 public class VisitedData {
     @Id

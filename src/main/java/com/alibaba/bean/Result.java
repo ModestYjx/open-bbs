@@ -1,4 +1,10 @@
 package com.alibaba.bean;
+/**
+ * @Author: ModestYjx
+ * @Description:
+ * @Version: 1.0.0
+ * @Date: 2021/11/30 20:58
+ */
 
 /**
  * 向前端返回信息封装

@@ -1,5 +1,10 @@
 package com.alibaba.service;
-
+/**
+ * @Author: ModestYjx
+ * @Description:
+ * @Version: 1.0.0
+ * @Date: 2021/11/30 20:58
+ */
 import com.alibaba.bean.Download;
 import com.alibaba.bean.Result;
 import com.alibaba.mapper.DownloadMapper;
@@ -14,12 +19,6 @@ public class DownloadService {
     @Autowired
     private DownloadMapper downloadMapper;
 
-    /**
-     * 注册
-     *
-     * @param download 参数封装
-     * @return Result
-     */
     public Result regist(Download download) {
         Result result = new Result();
         result.setSuccess(false);

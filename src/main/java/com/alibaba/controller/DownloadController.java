@@ -1,5 +1,10 @@
 package com.alibaba.controller;
-
+/**
+ * @Author: ModestYjx
+ * @Description:
+ * @Version: 1.0.0
+ * @Date: 2021/11/30 20:58
+ */
 import com.alibaba.bean.Result;
 import com.alibaba.bean.Download;
 import com.alibaba.service.DownloadService;
@@ -13,13 +18,7 @@ public class DownloadController {
     @Autowired
     private DownloadService downloadService;
 
-    /**
-     * 注册
-     *
-     * @param download 参数封装
-     * @return Result
-     */
-    @PostMapping(value = "/go")
+    @PostMapping(value = "/submit")
     public Result regist(Download download) {
         return downloadService.regist(download);
     }
