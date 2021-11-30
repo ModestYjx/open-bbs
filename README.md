@@ -1,7 +1,10 @@
 # open-bbs README
 ## 0. 简介
 > 如题所示，此项目为一个 BBSer 免费开放的开源项目。
+
 > github：https://github.com/ModestYjx/open-bbs。
+
+> 体验网址：http://39.103.166.167/
 ## 1. Usage
 1. 配置数据库，参考[database.md](./doc/database.md)。
 2. 运行src/main/java/com/alibaba/Application.java即可。
