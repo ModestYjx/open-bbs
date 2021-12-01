@@ -21,7 +21,7 @@ public class DownloadController {
 
     @PostMapping(value = "/submit")
     public Result regist(Download download) {
-        return downloadService.regist(download);
+        return downloadService.downloadFile(download);
     }
 }
 

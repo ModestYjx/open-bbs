@@ -10,6 +10,7 @@ import com.alibaba.bean.Download;
 import com.alibaba.bean.Result;
 import com.alibaba.mapper.DownloadMapper;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
@@ -20,7 +21,7 @@ public class DownloadService {
     @Autowired
     private DownloadMapper downloadMapper;
 
-    public Result regist(Download download) {
+    public Result downloadFile(Download download) {
         Result result = new Result();
         result.setSuccess(false);
         result.setDetail(null);
