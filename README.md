@@ -24,6 +24,6 @@
 
 ### 2.4 后台管理系统（待实现）
 
-## 3. Contack Me
+## 3. Contact Me
 
 1. 你可以在如下文档上交流你的需求。http://39.103.166.167:3000/nm1ah_4UR1ydD5aLCGXmAg?both
