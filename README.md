@@ -18,7 +18,7 @@
 
 ### 2.1 csdn free download for BBS user
 
-### 2.2 codimd free(在线文档协作文档)
+### 2.2 codimd free(在线文档协作工具)
 
 ### 2.3 网站访问次数（待实现）
 
