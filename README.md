@@ -5,7 +5,7 @@
 > 如题所示，此项目为一个 对 BBSer and ecnuer 免费开放的开源项目，功能介绍在[Features](https://github.com/ModestYjx/open-bbs#2-feature)
 。
 
-> github：https://github.com/ModestYjx/open-bbs-sdk
+> github：https://github.com/Cheer-for-fun/open-bbs-sdk
 
 > 体验网址：http://39.103.166.167/
 
