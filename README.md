@@ -5,7 +5,7 @@
 > 如题所示，此项目为一个 对BBSer 免费开放的开源项目，功能介绍在[Features](https://github.com/ModestYjx/open-bbs#2-feature)
 。
 
-> github：https://github.com/ModestYjx/open-bbs。
+> github：https://github.com/ModestYjx/open-bbs
 
 > 体验网址：http://39.103.166.167/
 

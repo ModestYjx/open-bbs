@@ -31,7 +31,6 @@ public class DownloadService {
             result.setMsg("提交成功，1个工作日之内发送完毕。");
             result.setSuccess(true);
             result.setDetail(download);
-
         } catch (Exception e) {
             result.setMsg(e.getMessage());
             e.printStackTrace();

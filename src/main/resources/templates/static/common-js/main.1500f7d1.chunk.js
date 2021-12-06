@@ -7,7 +7,7 @@
         var n = c(0), s = c.n(n), a = c(28), i = c.n(a), j = c(128), r = (c(138), c(35)), d = c(105), l = c(213),
             o = c(218), u = c(219), b = c(216), O = c(129), h = c(212), m = c(215), p = c(69), x = c(217),
             f = (c(100), c(14)), v = b.a.Option, k = function () {
-                var e = Object(n.useState)("pku.edu.cn"), t = Object(r.a)(e, 2), c = t[0], s = t[1],
+                var e = Object(n.useState)("stu.pku.edu.cn"), t = Object(r.a)(e, 2), c = t[0], s = t[1],
                     a = Object(n.useState)(""), i = Object(r.a)(a, 2), j = i[0], d = i[1], l = Object(n.useState)(""),
                     o = Object(r.a)(l, 2), u = o[0], k = o[1], y = function () {
                         (function (e, t) {
@@ -25,18 +25,23 @@
                             alert(e)
                         }))
                     }, g = Object(f.jsxs)(b.a, {
-                        defaultValue: "pku.edu.cn",
+                        defaultValue: "stu.pku.edu.cn",
                         className: "select-after",
                         onChange: function (e) {
                             s(e)
                         },
                         children: [Object(f.jsx)(v, {
-                            value: "pku.edu.cn",
-                            children: "pku.edu.cn"
+                            value: "stu.pku.edu.cn",
+                            children: "stu.pku.edu.cn"
+                        }), Object(f.jsx)(v, {
+                            value: "pku.edu.cn", children: "pku.edu.cn"
                         }), Object(f.jsx)(v, {
                             value: "thu.edu.cn",
                             children: "thu.edu.cn"
-                        }), Object(f.jsx)(v, {value: "ruc.edu.cn", children: "ruc.edu.cn"})]
+                        }), Object(f.jsx)(v, {
+                            value: "ruc.edu.cn", children: "ruc.edu.cn"
+                        })
+                        ]
                     });
                 return Object(f.jsx)("div", {
                     className: "csdn", children: Object(f.jsxs)(h.a, {
